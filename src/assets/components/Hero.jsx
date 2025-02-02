@@ -12,8 +12,8 @@ const Hero = () => {
                 <ReactTyped
                 className='font-bold md:text-5xl sm:text-4xl text-3xl mb-2 p-3'
                 strings= {['BTB','BTC','SASS']} 
-                typespeed = {100}
-                backspeed = {50}
+                typeSpeed = {100}
+                backSpeed = {50}
                 loop
                 />
 
